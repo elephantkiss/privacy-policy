@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
-
 At **Elephant Kiss**, we are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This Privacy Policy explains how we collect, use, and share information about you when you visit or make a purchase from our website.
 
 ## 1. Information We Collect
